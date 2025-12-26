@@ -1,0 +1,5 @@
+python-nmap==0.7.1
+requests==2.31.0
+configparser==5.3.0
+prettytable==3.9.0
+argparse==1.4.0
