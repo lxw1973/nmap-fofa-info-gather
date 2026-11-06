@@ -1,0 +1,8 @@
+# 扫描输出（含真实内网资产信息，不入库）
+scan_results/*
+!scan_results/.gitkeep
+!scan_results/README.md
+__pycache__/
+*.pyc
+.DS_Store
+config.ini
